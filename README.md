@@ -17,10 +17,8 @@
   - [ ] 重命名、删除文件
 
 # 技术选型
-* Golang
+* Golang: [iris](https://docs.iris-go.com)
 * 阿里云ESC
 * 对象存储OSS
 * 云数据库 MongoDB 版
-* restful接口
-* 前后分离，前端使用React
-# 
+* 前后分离，前端使用React，后端restful接口
